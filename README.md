@@ -80,4 +80,4 @@ See [`requirements.txt`](requirements.txt) for all required packages. Key depend
 
 ## 📄 License
 
-MIT License (add your license
+This project is maintained by [Ian Gitonga] and is open for research and educational use.
